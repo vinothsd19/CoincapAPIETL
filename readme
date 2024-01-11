@@ -13,3 +13,8 @@ Limits
 Free Tier (API Key)
 -500 requests per minute
 -11 years historical data
+
+
+The project gives a simple ETL pipeline to get the data from API and load it into Postgres DB
+codes are available in /src
+tests are available in /tests
