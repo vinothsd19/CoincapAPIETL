@@ -1,0 +1,44 @@
+2024-01-11 08:38:09,202 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 08:39:02,146 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 08:50:14,192 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 08:53:43,581 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 08:54:34,192 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 08:55:01,434 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 08:55:56,273 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 08:55:56,529 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 08:56:21,931 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 09:00:57,823 - INFO - Data transformed successfully.
+2024-01-11 09:00:57,990 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 09:02:19,617 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:02:19,629 - INFO - Data transformed successfully.
+2024-01-11 09:02:19,859 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 09:24:44,533 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:24:44,585 - INFO - Data transformed successfully.
+2024-01-11 09:25:06,120 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:25:06,133 - INFO - Data transformed successfully.
+2024-01-11 09:25:52,037 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:25:52,051 - INFO - Data transformed successfully.
+2024-01-11 09:26:34,071 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:26:34,083 - INFO - Data transformed successfully.
+2024-01-11 09:27:13,551 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:27:13,567 - INFO - Data transformed successfully.
+2024-01-11 09:27:13,742 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 09:29:09,329 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:29:09,344 - INFO - Data transformed successfully.
+2024-01-11 09:29:09,489 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 09:30:40,624 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:30:40,637 - INFO - Data transformed successfully.
+2024-01-11 09:31:02,845 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:31:02,878 - INFO - Data transformed successfully.
+2024-01-11 09:31:09,963 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:31:09,985 - INFO - Data transformed successfully.
+2024-01-11 09:52:52,476 - ERROR - Error fetching data from CoinCap API: Invalid URL 'api.coincap.io/v2/assets/bitcoin/history?interval=d1': No scheme supplied. Perhaps you meant https://api.coincap.io/v2/assets/bitcoin/history?interval=d1?
+2024-01-11 09:53:36,231 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:56:12,170 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:56:27,675 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:57:07,211 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 09:57:07,242 - INFO - Data transformed successfully.
+2024-01-11 09:57:07,409 - INFO - Data loaded successfully to PostgreSQL.
+2024-01-11 10:05:14,980 - INFO - Data fetched successfully from CoinCap API.
+2024-01-11 10:05:15,021 - INFO - Data transformed successfully.
+2024-01-11 10:05:15,261 - INFO - Data loaded successfully to PostgreSQL.

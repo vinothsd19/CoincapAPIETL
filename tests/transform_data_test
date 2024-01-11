@@ -1,0 +1,26 @@
+import sys
+sys.path.append(r'C:\Users\Vinot\Desktop\CoincapAPIETL\src')
+
+
+import unittest
+import pandas as pd
+from transform_data import transform_data
+from fetch_data import get_data
+
+class TestColumnType(unittest.TestCase):
+    def test_rank_column_data_type(self):
+        # Assuming 'df' is your pandas DataFrame and 'Age' is the column to be tested
+        # Replace this with your actual DataFrame and column name
+
+        # Example DataFrame creation (replace this with your actual data)
+        data = transform_data(get_data())
+        df = pd.DataFrame(data)
+
+        # Get the data type of the 'Age' column
+        column_data_type = df['rank'].dtype
+
+        # Check if the data type is numeric (int or float)
+        self.assertTrue(column_data_type in [int, float], f"Expected numeric data type, but got {column_data_type}")
+
+if __name__ == '__main__':
+    unittest.main()
