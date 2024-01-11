@@ -1,13 +1,15 @@
-# Project Name
+CoinCap is a useful tool for real-time pricing and market activity for over 1,000 cryptocurrencies. 
+By collecting exchange data from thousands of markets, we are able to offer transparent and accurate data on asset price and availability.
 
-## Description
-[This project is a simple ETL pipeline for CoinCap API which gives infor about cryptocurrency]
+API will offer insight into exactly which exchanges and markets contribute to our pricing.
 
-## Table of Contents
-- [Installation](# )
-
-
-## Installation
-[pip install requirements.txt]
+For all endpoints, a single page offers 100 responses by default and supports up to 2,000 responses per page upon requests.
 
 
+Limits
+-Free Tier (No API Key)
+-200 requests per minute
+
+Free Tier (API Key)
+-500 requests per minute
+-11 years historical data
